@@ -2,7 +2,7 @@ To run the Resume Builder website locally, follow these steps:
 
 1. Clone the repository:
  
-   git clone https://github.com/kanetiyajigar/resume-builder.git
+   git clone https://github.com/kanetiyajigar/Resume-Builder.git
 
 2. Navigate to the project directory:
 
